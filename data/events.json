@@ -1,0 +1,4 @@
+{"event_id":"e1","customer_id":"C001","event_type":"page_view","payload":{"page":"/home","device":{"type":"mobile","os":"iOS"},"tags":["promo","summer"]}}
+{"event_id":"e2","customer_id":"C002","event_type":"add_to_cart","payload":{"sku":"SKU-88","qty":2,"device":{"type":"desktop","os":"Windows"},"tags":["clearance"]}}
+{"event_id":"e3","customer_id":"C001","event_type":"purchase","payload":{"order_id":"1001","amount":129.99,"device":{"type":"mobile","os":"iOS"},"tags":["promo"]}}
+{"event_id":"e4","customer_id":"C003","event_type":"page_view","payload":{"page":"/product/SKU-88","device":{"type":"tablet","os":"Android"},"tags":[]}}
