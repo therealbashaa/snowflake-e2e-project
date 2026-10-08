@@ -91,6 +91,16 @@ Some SQL contains placeholder values (`<account_id>`, `<your_role>`,
 `<your-bucket>`) that need to be filled in with your own AWS/Snowflake
 details before running Path A.
 
+## 📬 Contact
+
+Gouse Basha
+
+Aspiring Data Engineer · Open to Data Engineer / Analytics Engineer roles
+🔗 LinkedIn: `https://www.linkedin.com/in/therealbasha/`
+💻 GitHub: `https://github.com/therealbashaa/`
+
+*If this project helped or interested you, a ⭐ on the repo is appreciated!*
+
 ## License
 
 MIT
